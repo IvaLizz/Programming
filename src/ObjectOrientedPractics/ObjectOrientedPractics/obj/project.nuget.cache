@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B8Cwu+sOiPwLhV030SmsyCVdgnimEooBfrXBC/uO3OFv+TOm49xzcl7tPXPd6KrGzDBRWc6z0StqJd/2cGTpXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jett\\source\\repos\\Programming\\src\\ObjectOrientedPractics\\ObjectOrientedPractics\\ObjectOrientedPractics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jett\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
